@@ -14,3 +14,4 @@ let findAnagrams = (s,p) => {
 }
 
 console.log(findAnagrams('abab', 'ab'))
+ 
